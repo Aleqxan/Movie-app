@@ -1,1 +1,1 @@
-# backend structure for a simple movie app written with golang
+# Backend structure for a simple movie app written with golang
